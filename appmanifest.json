@@ -2,7 +2,7 @@
 	"name": "DirtyBird",
 	"short_name": "DirtyBird",
 	"start_url": "index.html",
-	"display": "standalone",
+	"display": "fullscreen",
 	"orientation": "any",
 	"icons": [{
 		"src": "icon-16.png",
