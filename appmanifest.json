@@ -1,6 +1,6 @@
 ﻿{
-	"name": "DirtyBird",
-	"short_name": "DirtyBird",
+	"name": "BibleBookMatchGame",
+	"short_name": "BibleBookMatchGame",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
